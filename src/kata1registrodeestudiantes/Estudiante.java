@@ -1,4 +1,4 @@
-package ejercicios;
+package kata1registrodeestudiantes;
 
 public class Estudiante {
 
